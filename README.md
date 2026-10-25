@@ -1,7 +1,7 @@
 # Práctica 3
 
-En esta práctica se implementó un programa que calcule la
-función potencia(x , y) como una función primitiva recursiva de números naturales.
+En esta práctica se implementó un programa que calcula la
+función pow(x , y) como una función primitiva recursiva de números naturales.
 
 ## Compilación
 
@@ -19,7 +19,6 @@ Se obtendrá un archivo ejecutable estático.
 
 ## Uso
 
-El format de uso es:
 ```
 $ power -x 2 -y 3
 8
